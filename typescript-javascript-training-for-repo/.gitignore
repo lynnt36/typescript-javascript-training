@@ -6,6 +6,10 @@ bun.lockb
 dist/
 build/
 
+# TypeScript declaration and source map files
+*.d.ts
+*.d.ts.map
+
 # Environment files
 .env
 
@@ -22,3 +26,13 @@ copilot.chat/
 copilot.indices/
 fileContentIndex/
 v17/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
