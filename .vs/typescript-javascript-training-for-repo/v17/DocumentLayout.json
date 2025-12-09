@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|c:\\users\\thomasl\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|solutionrelative:typescript-javascript-training-for-repo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|c:\\users\\thomasl\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\numbers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|solutionrelative:typescript-javascript-training-for-repo\\src\\core\\primitives\\numbers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|c:\\users\\thomasl\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\basic\\variables.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|solutionrelative:typescript-javascript-training-for-repo\\src\\core\\basic\\variables.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|c:\\users\\thomasl\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\booleans.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|solutionrelative:typescript-javascript-training-for-repo\\src\\core\\primitives\\booleans.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|c:\\users\\thomasl\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\strings.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3CC2FFAB-B2BA-6C3B-5B85-2F85891D7157}|typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo.esproj|solutionrelative:typescript-javascript-training-for-repo\\src\\core\\primitives\\strings.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\.gitignore",
+              "RelativeDocumentMoniker": "typescript-javascript-training-for-repo\\.gitignore",
+              "ToolTip": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\.gitignore",
+              "RelativeToolTip": "typescript-javascript-training-for-repo\\.gitignore",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-09T11:52:28.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "numbers.ts",
+              "DocumentMoniker": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\numbers.ts",
+              "RelativeDocumentMoniker": "typescript-javascript-training-for-repo\\src\\core\\primitives\\numbers.ts",
+              "ToolTip": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\numbers.ts",
+              "RelativeToolTip": "typescript-javascript-training-for-repo\\src\\core\\primitives\\numbers.ts",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-09T08:02:26.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "variables.ts",
+              "DocumentMoniker": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\basic\\variables.ts",
+              "RelativeDocumentMoniker": "typescript-javascript-training-for-repo\\src\\core\\basic\\variables.ts",
+              "ToolTip": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\basic\\variables.ts",
+              "RelativeToolTip": "typescript-javascript-training-for-repo\\src\\core\\basic\\variables.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-09T08:02:58.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "strings.ts",
+              "DocumentMoniker": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\strings.ts",
+              "RelativeDocumentMoniker": "typescript-javascript-training-for-repo\\src\\core\\primitives\\strings.ts",
+              "ToolTip": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\strings.ts",
+              "RelativeToolTip": "typescript-javascript-training-for-repo\\src\\core\\primitives\\strings.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-09T08:02:09.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "booleans.ts",
+              "DocumentMoniker": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\booleans.ts",
+              "RelativeDocumentMoniker": "typescript-javascript-training-for-repo\\src\\core\\primitives\\booleans.ts",
+              "ToolTip": "C:\\Users\\ThomasL\\source\\repos\\typescript-javascript-training-for-repo\\typescript-javascript-training-for-repo\\src\\core\\primitives\\booleans.ts",
+              "RelativeToolTip": "typescript-javascript-training-for-repo\\src\\core\\primitives\\booleans.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-09T08:01:49.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

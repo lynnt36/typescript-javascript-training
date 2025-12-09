@@ -1,0 +1,24 @@
+# Node/Bun dependencies
+node_modules/
+bun.lockb
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+
+# Visual Studio / IDE
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# GitHub Copilot / indices / caches
+copilot.chat/
+copilot.indices/
+fileContentIndex/
+v17/
