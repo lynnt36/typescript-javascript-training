@@ -46,6 +46,8 @@ I am basing this repository cloning for Visual Studio Code, but different people
 - After cloning, click open when prompted to
 - To test if the project is running fine, in your terminal/command prompt within the folder you chose to clone the repo to, enter bun run "and the file path to the page in the project you would like to run"
 
+  /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 
 //// LESSON 1 ///////
