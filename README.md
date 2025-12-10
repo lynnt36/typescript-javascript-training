@@ -1,18 +1,21 @@
-////////////////////////////////////ANY PACKAGE INSTALLATIONS NEEDED IF YOU DONT ALREADY HAVE THEM ??????????//////////////////////////////////////
+////////ANY PACKAGE INSTALLATIONS NEEDED IF YOU DONT ALREADY HAVE THEM ??/////////
 
 NODE.JS AND NPM
+
 Before installing enter node --version and npm --version to see if they have already been installed. If not then follow the further instructions below.
 - Node.js is needed to be installed so your IDE is able to handle Typescript/Javascript code as well as provide you with options for any typescript/javascript frameworks or scaffolding for your projects
 - once installed, you can check in your terminal/command prompt (**NOT POWERSHELL**) if it has been installed correctly by entering this command, node --version (if it has been installed correctly, you should see a version appear)
 - By installing node, it also install's npm which is also needed. To check enter this command, npm --version to see if it has been installed ok
 
 BUN
+
 Before installing enter bun --version to see if it has already been installed. If not then follow the further instructions below.
 - Bun is a fast javascript/typescript runtime
 - To install, go into your terminal/command prompt and enter this command, npm install -g bun
 - enter bun --version to see if your presented with a version which means it has successfully installed
 
 GIT
+
 Before installing enter git --version to see if it has already been installed. If not then follow the further instructions below.
 - Git is needed to be installed as this repository lives in GitHub so your IDE can be linked to GitHub to pull the project down
 - go to this website, https://git-scm.com/download/win, download an run the installer, you will be met with several windows along this process and below is what you should click before clicking the next button
@@ -33,7 +36,7 @@ Before installing enter git --version to see if it has already been installed. I
 
   
 
-////////////////////////////////////PULLING THE PROJECT DOWN TO YOUR IDE/////////////////////////////////////
+////////PULLING THE PROJECT DOWN TO YOUR IDE//////////
 
 I am basing this repository cloning for Visual Studio Code, but different people may be using different IDE's
 - open VS Code
