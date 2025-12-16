@@ -39,6 +39,8 @@ class Numbers {
         const bigNumber = 10_000_000;
         console.log(bigNumber);
 
+        ///////////////////////////////////////////////////////////////////////////////////////
+
         // BELOW ARE THE EXERCISES WE ATTEMPTED DURING LESSON 1 OF THE COURSE
 
         // 1. Basic arithmetic
