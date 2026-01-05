@@ -57,7 +57,14 @@ I am basing this repository cloning for Visual Studio Code, but different people
       - booleans.ts (within the src/core/primitives folder)
       - numbers.ts (within the src/core/primitives folder)
 
-  //// LESSON 2 ///////
-  - We covered strings.
-  - The learning material and exercises for this subject can be found on the following page.
-      - strings.ts (within the src/core/primitives folder)
+//// LESSON 2 ///////
+- We covered strings.
+- The learning material and exercises for this subject can be found on the following page.
+  - strings.ts (within the src/core/primitives folder)
+   
+//// LESSON 3 ///////
+- We covered operators, basic functions and const functions.
+- The learning material and exercises for this subject can be found on the following page.
+  - myConstFunction.ts (within the src/core/basic folder)
+  - myFunction.ts (within the src/core/basic folder)
+  - operators.ts (within the src/core/logic folder)
