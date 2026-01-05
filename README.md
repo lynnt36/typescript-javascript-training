@@ -56,3 +56,8 @@ I am basing this repository cloning for Visual Studio Code, but different people
       - variables.ts (within the src/core/basic folder)
       - booleans.ts (within the src/core/primitives folder)
       - numbers.ts (within the src/core/primitives folder)
+
+  //// LESSON 2 ///////
+  - We covered strings.
+  - The learning material and exercises for this subject can be found on the following page.
+      - strings.ts (within the src/core/primitives folder)
