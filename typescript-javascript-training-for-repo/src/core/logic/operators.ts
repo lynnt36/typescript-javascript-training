@@ -61,5 +61,61 @@ class Operators {
         if (4 % 3 === 0) {
             console.log('4 is odd');
         }
+
+        ///////////////////////////////////////////////////////////////////////////////////////////
+
+        // BELOW ARE THE EXERCISES WE ATTEMPTED DURING LESSON 3 OF THE COURSE
+
+        // 1. Comparison operators
+        // Task: Create two numbers and compare them using different comparison operators.
+        // Goal: Practice using comparison operators that return booleans.
+
+        const a = 15;
+        const b = 10;
+
+        // Check if a is greater than b
+        // Check if a is less than b
+        // Check if a is equal to b
+        // Check if a is not equal to b
+
+        // 2. Arithmetic operations
+        // Task: Using two numbers, perform basic maths operations.
+        // Goal: Practice addition, subtraction, multiplication, and division.
+
+        const num1 = 20;
+        const num2 = 5;
+
+        // Create add
+        // Create subtract
+        // Create multiply
+        // Create divide
+
+        // 3. Logical AND (&&)
+        // Task: Log a message only if both conditions are true.
+        // Goal: Understand how logical AND works.
+
+        const age = 19;
+        const hasTicket = true;
+
+        // If age is 18 or over AND hasTicket is true, log "You may enter"
+
+        // 4. Logical OR (||)
+        // Task: Log a message if at least one condition is true.
+        // Goal: Understand how logical OR works.
+
+        const isWeekend = false;
+        const isDayOff = true;
+
+        // If it is the weekend OR a day off, log "No work today"
+
+        // 5. Modulus operator (%)
+        // Task: Check if a number is divisible by 2.
+        // Goal: Understand how modulus is used to check remainders.
+
+        const number = 7;
+
+        // Use modulus to check if the number is even or odd
+
+
     }
 }

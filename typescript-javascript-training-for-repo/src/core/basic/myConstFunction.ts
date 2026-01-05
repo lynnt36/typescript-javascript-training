@@ -39,3 +39,52 @@ console.log(MyConstFunctionWithOptionalParam()); // Hello, World!
 console.log(MyConstFunctionWithOptionalParam('Person')); // Hello, Person!
 console.log(MyConstFunctionWithDefaultParam('Lisa')); // Hello, Lisa!
 console.log(MyFunctionWithComplexArgument({ name: 'Jack' })); // Hello, Jack!
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+// BELOW ARE THE EXERCISES WE ATTEMPTED DURING LESSON 3 OF THE COURSE
+
+// 1. Basic Arrow Function
+// Task: Create an arrow function that returns a fixed message.
+// Goal: Understand how arrow functions return values.
+
+const getAppVersion = (): string => {
+    // return "Version 1.0"
+};
+
+// 2. Arrow Function with One Parameter
+// Task: Create an arrow function that takes a username and returns a message.
+// Goal: Practice passing a value into an arrow function.
+
+const formatUsername = (username: string): string => {
+    // return "User: username"
+};
+
+// 3. Arrow Function with Multiple Parameters
+// Task: Create an arrow function that takes a file name and file size.
+// Goal: Understand how arrow functions use multiple parameters.
+
+const formatFileInfo = (fileName: string, fileSize: number): string => {
+    // return "File fileName is fileSize"
+};
+
+// 4. Arrow Function with Optional Parameter
+// Task: Create an arrow function where a role is optional. If no role is provided, return "Role: Guest".
+// Goal: Learn how optional parameters work in arrow functions.
+
+const formatUserRole = (role?: string): string => {
+    // use nullish coalescing (??)
+};
+
+// 5. Arrow Function with Object Parameter
+// Task: Create an arrow function that takes a task object and returns a summary.
+// Goal: Practice passing objects into arrow functions.
+
+interface Task {
+    title: string;
+}
+
+const getTaskSummary = (task: Task): string => {
+    // return "Task: task.title"
+};
+
