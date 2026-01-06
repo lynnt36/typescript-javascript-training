@@ -119,3 +119,5 @@ class Operators {
 
     }
 }
+
+console.log(new Operators());
