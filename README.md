@@ -68,3 +68,10 @@ I am basing this repository cloning for Visual Studio Code, but different people
   - myConstFunction.ts (within the src/core/basic folder)
   - myFunction.ts (within the src/core/basic folder)
   - operators.ts (within the src/core/logic folder)
+ 
+//// LESSON 4 CHALLENGE ///////
+- This is a calculator challenge
+- Build a small calculator that takes a score and returns a result message
+- We will try to output the correct answer through applying logic we have already covered from the first 3 lessons, so go into the below files to get to the desired answer.
+- booleans.ts, strings.ts, numbers.ts, operators.ts, vaiables.ts, myFunction.ts and myConstFunction.ts
+- This challenge now moves us from just knowing syntax of each topic covered so far, to understanding and using each topic together to build something
