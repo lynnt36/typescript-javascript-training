@@ -90,3 +90,11 @@ CHALLENGE 2
   decides which operation to run
   returns a result message
 
+CHALLENGE 3
+- Create a User object with: username(string), age(number), isAdmin(boolean)
+- Create a function that: checks if the user is 18 or over, and returns a boolean
+- Create a function that checks if the user can access the system. Admin users always have access
+- Create a function that returns a formatted summary string, which includes name, age, and access result
+- Then log  the final result
+
+
