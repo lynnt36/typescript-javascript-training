@@ -70,8 +70,23 @@ I am basing this repository cloning for Visual Studio Code, but different people
   - operators.ts (within the src/core/logic folder)
  
 //// LESSON 4 CHALLENGE ///////
+CHALLENGE 1
 - This is a calculator challenge
 - Build a small calculator that takes a score and returns a result message
 - We will try to output the correct answer through applying logic we have already covered from the first 3 lessons, so go into the below files to get to the desired answer.
 - booleans.ts, strings.ts, numbers.ts, operators.ts, vaiables.ts, myFunction.ts and myConstFunction.ts
 - This challenge now moves us from just knowing syntax of each topic covered so far, to understanding and using each topic together to build something
+
+CHALLENGE 2
+- This is another calculator challenge
+- Store two numbers
+-Store an operation as a string
+-Create separate functions for:
+-add
+-subtract
+-multiply
+-divide
+-Create a function that:
+  decides which operation to run
+  returns a result message
+
