@@ -1,34 +1,42 @@
 // This is a basic TypeScript function
-function MyFunction(): string {
+export function MyFunction(): string {
     return 'Hello, World!';
 }
 
 // This is a TypeScript function with a parameter
-function MyFunctionWithParam(name: string): string {
+export function MyFunctionWithParam(name: string): string {
     return `Hello, ${name}!`;
 }
 
 // This is a TypeScript function with multiple parameters
-function MyFunctionWithParams(forename: string, surname: string): string {
+export function MyFunctionWithParams(forename: string, surname: string): string {
     return `Hello, ${forename} ${surname}!`;
 }
 
 // This is a TypeScript function with an optional parameter
-function MyFunctionWithOptionalParam(name?: string): string {
+export function MyFunctionWithOptionalParam(name?: string): string {
     return `Hello, ${name ?? 'World'}!`;
 }
 
 // This is a TypeScript function with a default parameter
-function MyFunctionWithDefaultParam(name: string = 'World'): string {
+export function MyFunctionWithDefaultParam(name: string = 'World'): string {
     return `Hello, ${name}!`;
 }
 
-interface Person {
+export interface Person {
     name: string;
 }
 // This is a TypeScript function that takes in a complex argument
-function MyFunctionWithComplexArgument(person: Person): string {
+export function MyFunctionWithComplexArgument(person: Person): string {
     return `Hello, ${person.name}!`;
+}
+
+export function isAnAdult(age: number): boolean {
+    return age >= 18;
+}
+
+export function add (a: number, b: number): number {
+    return a + b;
 }
 
 console.log(MyFunction()); // Hello, World!
