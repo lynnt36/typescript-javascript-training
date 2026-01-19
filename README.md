@@ -70,6 +70,7 @@ I am basing this repository cloning for Visual Studio Code, but different people
   - operators.ts (within the src/core/logic folder)
  
 //// LESSON 4 CHALLENGE ///////
+
 CHALLENGE 1
 - This is a calculator challenge
 - Build a small calculator that takes a score and returns a result message
