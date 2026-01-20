@@ -98,4 +98,11 @@ CHALLENGE 3
 - Create a function that returns a formatted summary string, which includes name, age, and access result
 - Then log  the final result
 
+- The above challenges can be found within src/core/challenges folder
+
+//// LESSON 5 ///////
+- We covered unit tests for string, boolean and number functions
+- The learning material and exercises for these subjetcs can be found on the following page
+- myFunction.spec.ts (within the src/core/unit-tests folder)
+
 
