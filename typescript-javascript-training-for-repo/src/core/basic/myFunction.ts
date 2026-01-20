@@ -31,6 +31,7 @@ export function MyFunctionWithComplexArgument(person: Person): string {
     return `Hello, ${person.name}!`;
 }
 
+// The below 2 functions were added to this page purely to demonstrate unit testing in lesson 5
 export function isAnAdult(age: number): boolean {
     return age >= 18;
 }
