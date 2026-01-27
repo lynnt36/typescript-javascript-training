@@ -105,4 +105,10 @@ CHALLENGE 3
 - The learning material and exercises for these subjetcs can be found on the following page
 - myFunction.spec.ts (within the src/core/unit-tests folder)
 
+//// LESSON 6 ///////
+- We covered further conditionals through writing if/e;se and switch statements
+- The learning material and exercises for these subjects can be found on the following pages
+ - ifs.ts ( within the src/core/logic folder)
+ - swithes.ts ( within the src/core/logic folder)
+
 
