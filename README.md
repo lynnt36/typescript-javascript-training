@@ -106,9 +106,14 @@ CHALLENGE 3
 - myFunction.spec.ts (within the src/core/unit-tests folder)
 
 //// LESSON 6 ///////
-- We covered further conditionals through writing if/e;se and switch statements
+- We covered further conditionals through writing if/else and switch statements
 - The learning material and exercises for these subjects can be found on the following pages
- - ifs.ts ( within the src/core/logic folder)
- - swithes.ts ( within the src/core/logic folder)
+- ifs.ts (within the src/core/logic folder)
+- swicthes.ts (within the src/core/logic folder)
+
+//// LESSON 7 ///////
+- We covered arrays and introduced looping through arrays
+- The learning material and exercises for these subjects can be found on the following page
+- arrays.ts (within the src/core/logic folder)
 
 
