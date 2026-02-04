@@ -53,6 +53,60 @@ class Arrays {
 
         const allUsersConcat = currentUsers.concat(newUsers);
         console.log('All Users concat', allUsersConcat);
+
+
+        ///////////////////////////////////////////////////////////////////////////////////////////
+
+        // BELOW ARE THE EXERCISES WE ATTEMPTED DURING LESSON 6 OF THE COURSE
+
+        // 1. Accessing & Changing Values
+        // Task: Create an array of 5 colours,
+        //       log the second colour,
+        //       change the third colour to something else,
+        //       log the updated value.
+        // Goal: Understand how to access and update values in an array using indexes.
+
+        // add code here
+
+        // 2. Array Length
+        // Task: Create an array of at least 4 items (any topic).
+        //       Log the length of the array.
+        //       Add one more item to the array
+        //       Log the new length.
+        // Goal: Understand how .length works and that arrays can grow dynamically.
+
+        // add code here
+
+        // 3. Looping Through an Array
+        // Task: Create an array of numbers.
+        //       Use a for loop to log each number
+        //       Then do the same using a for…of loop.
+        // Rules:Both loops must log the same values.
+        // Goal: Practice iterating over arrays and see two common ways to do it.
+
+        // add code here
+
+        // 4. Nested Arrays
+        // Task: Create a 2D array with two rows of numbers
+        //       Example shape:
+        //       [[1, 2, 3], [4, 5, 6]]
+        //       Log:
+        //       One value from the first row
+        //       One value from the second row
+        // Goal: Understand how arrays can contain other arrays and how to access nested values.
+
+        // add code here
+
+        // 5. Combining Arrays
+        // Task: Create one array of existing users.
+        //       Create another array of new users.
+        //       Combine them into a single array in two different ways:
+        //       Using the spread operator
+        //       Using.concat()
+        //       Log both results.
+        // Goal: Understand how to merge arrays and recognise multiple ways to solve the same problem.
+
+        // add code here
     }
 }
 
