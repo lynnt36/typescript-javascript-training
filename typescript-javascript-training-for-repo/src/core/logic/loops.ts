@@ -48,7 +48,7 @@ class Loops {
 
         console.log("--");
 
-        // do/while loops
+       // do/while loops
         let n = 0;
 
         do {
@@ -58,7 +58,7 @@ class Loops {
 
         console.log("--");
 
-        // break and continue
+       // break and continue
         for (let j = 0; j < 10; j++) {
             if (j === 5) {
                 console.log("Breaking at", j);
@@ -76,6 +76,44 @@ class Loops {
             }
             console.log(k);
         }
+
+        ///////////////////////////////////////////////////////////////////////////////////////////
+
+        // BELOW ARE THE EXERCISES WE ATTEMPTED DURING LESSON 8 OF THE COURSE
+
+        // 1. Create a loop that logs all even numbers between 0 and 20.
+        // Goal: Practice loop conditions and basic number checks.
+
+        // add code here
+
+        // 2. Create an array of numbers and:
+        //  - Loop through the array
+        //  - Log each number multiplied by 2
+        // Goal: Combine loops with array access and simple arithmetic.
+
+        // add code here
+
+        // 3. Create a loop that:
+        //  - Counts down from 10 to 1
+        //  - Logs each number
+        // Goal: Understand that loops don’t always count upwards.
+
+        // add code here
+
+        // 4. Create an array of numbers and:
+        //  - Loop through the array
+        //  - Stop the loop as soon as you find the number 7
+        // Goal: Practice using break in a realistic scenario.
+
+        // add code here
+
+        // 5. Create an object representing a product (e.g. name, price, inStock).
+        // Loop through the object and:
+        //  - Log each key
+        //  - Log each value
+        // Goal: Reinforce for...in loops and object access.
+
+        // add code here
     }
 }
 
