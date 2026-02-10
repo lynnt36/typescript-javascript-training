@@ -116,4 +116,9 @@ CHALLENGE 3
 - The learning material and exercises for these subjects can be found on the following page
 - arrays.ts (within the src/core/logic folder)
 
+//// LESSON 8 ///////
+- We covered all different types of loops.
+- The learning material and exercises for this subject can be found on the following page
+- loops.ts (within src/core/logic folder)
+
 
