@@ -121,4 +121,11 @@ CHALLENGE 3
 - The learning material and exercises for this subject can be found on the following page
 - loops.ts (within src/core/logic folder)
 
+//// LESSON 9 ///////
+- We covered objects, object methods and destructuring objects.
+- The learning material and exercises for this subject can be found on the following pages
+- objects.ts (within src/core/logic folder)
+- objectMethods.ts (within src/core/logic folder)
+- destructing.ts (within src/core/logic folder)
+
 
